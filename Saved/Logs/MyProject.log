@@ -1143,3 +1143,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.11-05.31.17:275][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.04.11-05.31.17:367][677]LogSlate: Window 'Message Log' being destroyed
 [2019.04.11-05.31.17:370][677]LogSlate: Window 'Message Log' being destroyed
+[2019.04.11-05.36.30:726][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.11-05.36.30:870][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.04.11-05.36.37:547][640]LogSlate: Window 'Save Content' being destroyed
+[2019.04.11-05.36.39:637][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.11-05.36.39:659][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.04.11-05.36.39:806][886]LogSavePackage: Moving 'C:/Users/weber/Documents/GitHub/BoxTrigger/Saved/FirstPersonExampleMapFC1E7C73403BDBF8324451911424F042.tmp' to 'C:/Users/weber/Documents/GitHub/BoxTrigger/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.04.11-05.36.40:451][886]LogSavePackage: Moving 'C:/Users/weber/Documents/GitHub/BoxTrigger/Saved/FirstPersonExampleMap_BuiltDataA7279CFC4CDA933566F0BB8B5B35E268.tmp' to 'C:/Users/weber/Documents/GitHub/BoxTrigger/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
